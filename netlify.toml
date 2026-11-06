@@ -1,0 +1,5 @@
+# Plain HTML/CSS/JavaScript: dist is the editable, deploy-ready site.
+# No compilation or dependency installation is required to produce it.
+[build]
+  command = ""
+  publish = "dist"
