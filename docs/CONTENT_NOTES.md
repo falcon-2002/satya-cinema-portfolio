@@ -8,7 +8,7 @@ These notes distinguish supplied content from independently verified facts. Exis
 - The PDF says Lagozon Edutech PVT. LTD; the website retains the previously supplied Lagozon Technologies Private Limited.
 - Satya-Drishti's May–Aug 2025 dates and UIDAI Data Hackathon 2026 context differ; both are preserved.
 - Cloud Computing (NPTEL) and MEAN Stack Developer (Moniba Compu Academy Pvt Ltd) lack supplied issue dates and verification URLs. Four Cisco verification URLs are also missing.
-- Public demos remain missing for the real projects. Satya-Drishti's localhost address is labeled as local development and is not a live-demo link.
+- Public demos remain missing for MediConnect and Satya-Drishti. The portfolio's public demo is https://satya-prakash-mohapatra.netlify.app/. Satya-Drishti's localhost address is labeled as local development and is not a live-demo link.
 - Cart & Commerce, Insight, and Taskflow remain fictional sample concepts with no repository or demo links.
 - Numerical claims in the supplied resume have not been independently verified. They were not added as website metrics. Its Redis/Kafka statements differ from MediConnect's repository README, which says those features are not implemented; the website card does not add those claims.
 

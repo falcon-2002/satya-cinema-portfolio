@@ -2,7 +2,7 @@
 
 A cinematic developer portfolio presenting my projects, experience, education, credentials, and technical skills. Built with plain HTML, CSS, and JavaScript, it combines a portrait-led introduction with browsable content rows and accessible detail dialogs.
 
-**Live website:** Deployment pending. No verified public website URL is available yet.
+**[Visit the live portfolio → https://satya-prakash-mohapatra.netlify.app/](https://satya-prakash-mohapatra.netlify.app/)**
 
 [GitHub profile](https://github.com/falcon-2002) · [LinkedIn](https://www.linkedin.com/in/satya-prakash-mohapatra-767728231) · [Resume (PDF)](dist/assets/Satya_Prakash_Mohapatra_Resume.pdf)
 
@@ -91,7 +91,7 @@ Import this GitHub repository as an existing project. Use these settings:
 
 [netlify.toml](netlify.toml) explicitly sets an empty build command and `publish = "dist"`. There is no compilation, server process, or framework adapter to run on Netlify. All site assets, including the photo and resume, are inside `dist/`. Only that directory is published; repository documentation and screenshots stay outside it.
 
-After Netlify assigns a live URL, verify it and replace the deployment-pending note above. A public demo can then be added to the portfolio project in `dist/config.js`. Do not use a localhost address as a public demo.
+The portfolio is live at [satya-prakash-mohapatra.netlify.app](https://satya-prakash-mohapatra.netlify.app/). This URL is also configured as the portfolio project's public demo in `dist/config.js`. Keep that field and the link above synchronized if the domain changes. Do not use a localhost address as a public demo.
 
 Official references: [Netlify build settings](https://docs.netlify.com/build/configure-builds/overview/) and [file-based configuration](https://docs.netlify.com/build/configure-builds/file-based-configuration/).
 

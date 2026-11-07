@@ -27,6 +27,6 @@ Fresh desktop, project-row, and mobile screenshots are in [docs/screenshots](doc
 
 ## Limits
 
-Viewport emulation is not physical-device testing. Firefox, Safari, actual touch gestures, and screen readers were not tested. The browser's PDF viewer and download behavior can vary by device, so direct open/download links are provided. Mailto links were checked without sending email. External certificate and social destinations were not authenticated or independently validated. No public deployment is claimed.
+Viewport emulation is not physical-device testing. Firefox, Safari, actual touch gestures, and screen readers were not tested. The browser's PDF viewer and download behavior can vary by device, so direct open/download links are provided. Mailto links were checked without sending email. External certificate and social destinations were not authenticated or independently validated. The public portfolio URL is https://satya-prakash-mohapatra.netlify.app/.
 
 See [Content notes](docs/CONTENT_NOTES.md) for missing details and supplied factual discrepancies.
